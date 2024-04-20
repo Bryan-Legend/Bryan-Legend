@@ -1,6 +1,6 @@
 ### Hi there 👋
-https://cooltext.com
-https://legendstudio.com
+- https://cooltext.com
+- https://legendstudio.com
 
 <!--
 **Bryan-Legend/Bryan-Legend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
